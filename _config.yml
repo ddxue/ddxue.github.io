@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog | About"
+title                    : "Blog", "About"
 title_separator          : "|"
 name                     : "David Xue"
 description              : "An amazing website."
