@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog"
+title                    : "About"
 title_separator          : "|"
 name                     : "David Xue"
 description              : "A Blog on Machine Learning, Statistics, Deep Learning, Computer Vision."
